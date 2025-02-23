@@ -102,12 +102,11 @@ cd client && npm run dev
 🔹 Premium Resume Templates & Analytics Reports.
 🔹 Integration with LinkedIn & Job Boards.
 
-💡 Contributors & Acknowledgments
 
-🚀 Built by [Your Name]
+🚀 Built by Pranavi T
 💡 Inspired by AI-driven hiring & job search platforms
 
 
-🔹 Any Doubts? Reach out via uryarampuram121@gmail.com.
+🔹 Any Doubts? Reach out via pranavirao14@gmail.com
 
 🚀 Stay tuned for updates! 🎯
